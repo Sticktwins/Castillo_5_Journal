@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="master.css" rel="stylesheet" type="text/css">
+    <link href="red layout.css" rel="stylesheet" type="text.css">
+    <title>My Color Site</title>
+  </head>
+  <body>
+    <header>
+      <h1>John's Color Site</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="red.html">Red</a></li>
+        <li><a href="green.html">Green</a></li>
+        <li><a href="blue.html">Blue</a></li>
+        <li><a href="yellow.html">Yellow</a></li>
+        <li><a href="orange.html">Orange</a></li>
+        <li><a href="purple.html">Purple</a></li>
+        <li><a href="black.html">Black</a></li>
+        <li><a href="white.html">White</a></li>
+      </ul>
+    </nav>
+    <section>
+      <h2>Red</h2>
+      <p>Red is a bold color that commands attention! Red gives the impressionof seriousness and dignity, represents heat,fire and rage its known to escalate the body's metabolism. Red can also signify passion and love. Red promotes excitement and action. Its a bold color that signifies danger, which is why its used on stop signs. Using too much red should be done with caution because of its domineering qualities. Red is the most powerful of colors.
+
+    </section>
+    <aside>
+      <h3>Effects:</h3>
+        <ul>
+          <li>Increases enthusiasm</li>
+          <li>Stimulates energy</li>
+          <li>Encourages action</li>
+          <li>Provides sense of protection</li>
+        </ul>
+    </aside>
+    <aside>
+      <h3>Marketing Uses:</h3>
+        <ul>
+          <li>Food</li>
+          <li>Toys</li>
+          <li>Movies</li>
+          <li>Warnings</li>
+        </ul>
+    </aside>
+    <footer>
+      <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="red.html">Red</a></li>
+          <li><a href="green.html">Green</a></li>
+          <li><a href="blue.html">Blue</a></li>
+          <li><a href="yellow.html">Yellow</a></li>
+          <li><a href="orange.html">Orange</a></li>
+          <li><a href="purple.html">Purple</a></li>
+          <li><a href="black.html">Black</a></li>
+          <li><a href="white.html">White</a></li>
+      </ul>
+    </footer>
+  </body>
+</html>
